@@ -20,7 +20,7 @@ $nb2 = $row5[0]['Night Consultations'];
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
-    <title>Document</title>
+    <title>graphe d n </title>
 </head>
 
 <body>
