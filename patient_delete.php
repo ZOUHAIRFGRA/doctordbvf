@@ -1,4 +1,5 @@
 <?php 
+// delete function
 require('connection_bd.php');
 $id = $_GET['id'];
 $sql = "DELETE from patient where patientID=:patientID";
