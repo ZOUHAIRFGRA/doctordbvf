@@ -84,7 +84,7 @@ if (isset($_SESSION['password'])) {
                 width: 100%;
             }
         </style>
-        <title>Document</title>
+        <title>doctore </title>
     </head>
 
     <body>
